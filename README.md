@@ -1,2 +1,13 @@
-# Expense_tracker
-this is my 4th sem project using gui with pyhon and mysql as database to record an show the expenses made by a user.
+#  [ Expense_tracker  ]
+# Features
+• User Authentication:Login with username and password.                                                                                                               
+• Expense Logging:Add expenses with date, category, description, and amount.                                                                                          
+• View Expenses: Display logged expenses in a table format.                                                                                                           
+• Database Integration: Store and retrieve user credentials and expense data from a MySQL database.
+
+# Requirements
+• Python                                                                                                                                                              
+• Tkinter                                                                                                                                                             
+• MySQL Connector                                                                                                                                                     
+• tkcalendar
+
